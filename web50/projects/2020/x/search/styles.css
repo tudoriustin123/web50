@@ -1,0 +1,56 @@
+
+#links {
+    width: 100%;/* Background color for illustration purposes */
+    text-align: right;
+    padding: 10px;
+    background-color: white;
+}
+
+#links > a {
+    text-decoration: none;
+    color: #007bff; 
+    margin-left: 10px; 
+    display: inline-block
+}
+
+#searchBar {
+    text-align: center;
+
+}
+
+#submitButton {
+    border-radius: 6px;
+    margin: 10px;
+}
+
+#bar {
+    border: 5px solid black;
+}
+
+#allWords {
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+#exactPhrase {
+    margin-left: 75px;
+    margin-top: 5px;
+}
+
+#anyWords {
+    margin-left: 120px;
+    margin-top: 5px;
+}
+
+#noneWords {
+    margin-left: 110px;
+    margin-top: 5px;
+}
+
+#advancedSearchButton {
+    margin-top: 5px;
+    background-color: rgb(78, 78, 255);
+    color: white;
+    margin-left: 310px;
+}
+
